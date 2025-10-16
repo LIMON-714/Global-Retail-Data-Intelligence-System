@@ -26,4 +26,7 @@ A data intelligence system that uses SSIS, SQL Server, and Power BI to integrate
 3. Connect Power BI to the SQL Server database  
 4. Open the dashboard and explore metrics
 
- <img width="890" height="500" alt="Capture" src="https://github.com/user-attachments/assets/32798939-e77b-409a-ab64-86062761a68b" />
+
+## Dashboard Preview
+  
+   <img width="890" height="500" alt="Capture" src="https://github.com/user-attachments/assets/32798939-e77b-409a-ab64-86062761a68b" />
