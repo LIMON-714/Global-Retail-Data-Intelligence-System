@@ -20,12 +20,6 @@ A data intelligence system that uses SSIS, SQL Server, and Power BI to integrate
 - Impact of discounts on profitability  
 - Executive-level performance dashboards
 
-## How to Use
-1. Clone the repository  
-2. Load data into SQL Server using SSIS packages  
-3. Connect Power BI to the SQL Server database  
-4. Open the dashboard and explore metrics
-
 
 ## Dashboard Preview
   
